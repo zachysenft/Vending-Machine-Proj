@@ -14,7 +14,6 @@ class Vending_Machine {
 	private:
 		float money_entered;
 		float change_due;
-		int check;
 		
 		
 	public:
